@@ -15,19 +15,19 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              İZİNİNİZLE KENDİMİ SİZLERE <span className="purple"> TANITAYIM</span> DİNLEYİN:
+            İZİNNİZLE KENDİMİ SİZLERE <span className="purple"> TANITAYIM</span> DİNLEYİN:
             </h1>
             <p className="home-about-body">
     Kendimi yazılım alanında bir arayışa girerek hayat amacımı bulmuş ve bu amaçla dünyaya gelmiş biri olarak görüyorum. Her an her yerde kod yazıyorum. Eğer yakınımda bulunuyorsanız, büyük olasılıkla beni sık sık kod yazarken görüyorsunuzdur. Günlerim genellikle kod yazarak ve kitap okuyarak geçiyor. Nadiren kod yazmayı bıraksam da, genel olarak inzivada bile kod yazıyorum. Kod yazmak beni en mutlu eden şey olabilir. Yıllardır yapıyorum ve yapmaya devam edeceğim. Tanrı beni bunun için yaratmış olmalı.
     <br />
     <br />
     <i>
-        <b className="purple">Python, JavaScript</b>
+        <b className="purple"> Python, JavaScript </b>
     </i>
     gibi geleneksel yazılım dillerini projelerimde sıkça kullanıyorum.
     <br />
     <br />
-    İlgi alanlarım kısaca 
+     İlgi alanlarım kısaca 
     <i>
         <b className="purple"> web geliştirme</b> ve ayrıca 
         <b className="purple"> felsefe, müzik, dil ve mitoloji </b>
@@ -36,13 +36,13 @@ function Home2() {
     <br />
     <br />
     Zaman buldukça 
-    <b className="purple">Node.js</b> ve 
+    <b className="purple"> Node.js </b> ve 
     <i>
-        <b className="purple">yenilikçi JavaScript çerçeveleri</b>
+        <b className="purple"> yenilikçi JavaScript çerçeveleri </b>
     </i>
     ile küçük deneyler yapıyorum. Örneğin, 
     <i>
-        <b className="purple">React.js</b>
+        <b className="purple"> React.js </b>
     </i>
     
     gibi teknolojiler üzerinde çalışıyorum.
