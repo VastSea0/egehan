@@ -85,11 +85,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://kendisinedusunceler.netlify.app/"
+                href="https://uzaylinin-notlari.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Kendisine Düşünceler (blog)
+                <ImBlog style={{ marginBottom: "2px" }} /> Uzaylıdan notlar
               </Nav.Link>
             </Nav.Item>
 
