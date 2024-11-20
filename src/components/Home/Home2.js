@@ -15,41 +15,42 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-            İZİNNİZLE KENDİMİ SİZLERE <span className="purple"> TANITAYIM</span> DİNLEYİN:
+            KENDİMİ TANITMAM <span className="purple"> GERECEKSE </span>
             </h1>
             <p className="home-about-body">
-    Kendimi yazılım alanında bir arayışa girerek hayat amacımı bulmuş ve bu amaçla dünyaya gelmiş biri olarak görüyorum. Her an her yerde kod yazıyorum. Eğer yakınımda bulunuyorsanız, büyük olasılıkla beni sık sık kod yazarken görüyorsunuzdur. Günlerim genellikle kod yazarak ve kitap okuyarak geçiyor. Nadiren kod yazmayı bıraksam da, genel olarak inzivada bile kod yazıyorum. Kod yazmak beni en mutlu eden şey olabilir. Yıllardır yapıyorum ve yapmaya devam edeceğim. Tanrı beni bunun için yaratmış olmalı.
-    <br />
-    <br />
-    <i>
-        <b className="purple"> Python, JavaScript </b>
-    </i>
-    gibi geleneksel yazılım dillerini projelerimde sıkça kullanıyorum.
-    <br />
-    <br />
-     İlgi alanlarım kısaca 
-    <i>
-        <b className="purple"> web geliştirme</b> ve ayrıca 
-        <b className="purple"> felsefe, müzik, dil ve mitoloji </b>
-        gibi birbirinden farklı disiplinleri içeriyor.
-    </i>
-    <br />
-    <br />
-    Zaman buldukça 
-    <b className="purple"> Node.js </b> ve 
-    <i>
-        <b className="purple"> yenilikçi JavaScript çerçeveleri </b>
-    </i>
-    ile küçük deneyler yapıyorum. Örneğin, 
-    <i>
-        <b className="purple"> React.js </b>
-    </i>
-    
-    gibi teknolojiler üzerinde çalışıyorum.
-</p>
-<p>
-  Ayrıca projelerime destek olmak için <b className="purple"> <a href="https://buymeacoffee.com/egehankahraman"> bağışta </a></b>  bulunabilirsiniz. 
-</p>
+              Merhaba, ben Egehan! Kendimi bir "öğrenme tutkunu" ve "dijital gezgin" olarak tanımlıyorum. Çocukluğumdan bu yana teknolojiyle büyüdüm ve bu dünyada her gün yeni şeyler keşfetmek benim için vazgeçilmez bir tutku haline geldi. 4 yaşında bir bilgisayarla tanışmamdan bu yana, yazılım benim için yalnızca bir meslek değil, aynı zamanda kendimi ifade etmenin ve yaratmanın bir yolu oldu.  
+              <br />
+              <br />
+              Şu an en çok ilgilendiğim alanlar arasında 
+              <i>
+                <b className="purple"> JavaScript, React.js, Node.js </b>
+              </i> 
+              ve diğer yenilikçi teknolojiler yer alıyor. Web geliştirme ve açık kaynak projelerine katkıda bulunarak, yalnızca teknik becerilerimi geliştirmekle kalmıyor, aynı zamanda bu büyüleyici topluluğun bir parçası olmanın keyfini çıkarıyorum. Hatta geliştirdiğim projelerden biri, dil öğrenmek isteyenlere yardımcı olan bir uygulama olan 
+              <b className="purple"> "Translate Me!" </b>
+              oldu.  
+              <br />
+              <br />
+              Fakat hayatım yalnızca yazılım geliştirmekle sınırlı değil. Sanat, felsefe, dil ve edebiyat gibi disiplinlere duyduğum ilgi, beni bu alanlarda da keşfe çıkarıyor. Özellikle Japon edebiyatına ve mitolojiye olan ilgim, hem düşünce dünyamı zenginleştiriyor hem de yazılım projelerimde daha yaratıcı bir bakış açısı geliştirmemi sağlıyor. En sevdiğim yazarlardan biri olan 
+              <i>
+                <b className="purple"> Osamu Dazai </b>
+              </i>, bana hem yazının gücünü hem de insanlığın derinliklerini keşfetme cesareti verdi.  
+              <br />
+              <br />
+              Günlük hayatımda klasik gitar çalarak veya kendi yazılarımı yazarak duygularımı ifade etmeyi seviyorum. Yeni bir şarkıyı öğrenmek ya da bir hikaye yazmak, tıpkı bir yazılım kodu yazmak gibi benim için bir anlam arayışı. Müzik ve yazı, teknolojiyle birlikte hayatımın olmazsa olmazı haline geldi.  
+              <br />
+              <br />
+              Ayrıca insanlarla bağlantı kurmayı önemsiyorum. Tiyatro, münazara gibi etkinliklerde yer alarak hem sosyal becerilerimi geliştiriyor hem de farklı bakış açıları kazanıyorum. Bir gün, yazılım ve sanatın birleştiği projelerle dünyada iz bırakmayı, farklı kültürleri ve insanları bir araya getirebilecek bir şeyler yaratmayı hayal ediyorum.  
+              <br />
+              <br />
+              Eğer bu satırları okuyorsanız, belki de bir projede birlikte çalışabiliriz ya da yalnızca ilham verici bir sohbet edebiliriz. 
+              <i>
+                <b className="purple"> Hayal etmeye ve üretmeye devam ettiğim sürece, bu yolculukta yalnız olmadığımı biliyorum. </b>
+              </i>  
+            </p>
+
+        <p>
+          Ayrıca projelerime destek olmak için <b className="purple"> <a  className="purple" href="https://buymeacoffee.com/egehankahraman"> bağışta </a></b>  bulunabilirsiniz. 
+        </p>
 
           </Col>
           <Col md={4} className="myAvtar">
@@ -62,7 +63,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>BANA ULAŞMAK İSTERSEN</h1>
             <p>
-              Benle iletişim kurmakta kendini<span className="purple"> özgür </span> hisset
+              Aşağıdaki bağlantılar ile <span className="purple"> Benimle </span> iletişim kurabilirsin
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -76,7 +77,7 @@ function Home2() {
                 </a>
               </li>
 
-    <li className="social-icons">
+            <li className="social-icons">
                 <a
                   href="https://x.com/humabrowser"
                   target="_blank"
@@ -89,7 +90,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/marsstakiuzayliyim"
+                  href="https://www.instagram.com/crusttaceans"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
