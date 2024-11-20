@@ -79,10 +79,7 @@ function NavBar() {
                 />{" "}
                 Projeler
               </Nav.Link>
-            </Nav.Item>
-
-           
-
+            </Nav.Item> 
             <Nav.Item>
               <Nav.Link
                 href="https://uzaylinin-notlari.netlify.app/"
