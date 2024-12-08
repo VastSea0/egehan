@@ -4,12 +4,12 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import verasis from "../../Assets/Projects/chatify.png";
-import humabetik from "../../Assets/Projects/blog.png";
+ 
 import humagezgini from "../../Assets/Projects/blog.png";
-import humatarih from "../../Assets/Projects/blog.png";
+ 
 import huma from "../../Assets/Projects/blog.png";
 import opensoda from "../../Assets/Projects/blog.png";
-import humabulut from "../../Assets/Projects/blog.png";
+ 
 import kendisinedusunceler from "../../Assets/Projects/suicide.png";
 
 function Projects() {
