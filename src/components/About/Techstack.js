@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { SiFlutter } from "react-icons/si";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
@@ -34,9 +35,9 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-    
-     
-     
+      <Col xs={4} md={2} className="tech-icons">
+      <SiFlutter />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
