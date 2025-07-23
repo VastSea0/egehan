@@ -35,7 +35,7 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Kullandığım <strong className="purple">yenilikler</strong>
+          Kullandığım <strong className="purple">Teknolojiler</strong>
         </h1>
 
         <Techstack />
