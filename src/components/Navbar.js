@@ -80,7 +80,7 @@ function NavBar() {
                 Projeler
               </Nav.Link>
             </Nav.Item> 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 href="https://uzaylinin-notlari.netlify.app/"
                 target="_blank"
@@ -88,7 +88,7 @@ function NavBar() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Uzaylıdan notlar
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item className="fork-btn">
               <Button
