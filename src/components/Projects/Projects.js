@@ -117,6 +117,16 @@ function Projects() {
               demoLink="https://aura-companion.vercel.app/"
             />
           </Col>
+               <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={huma}  
+              isBlog={false}
+              title="Notia"
+              description="Notia, AI destekli galerinizi bir günlüğe dönüştüren bir uygulamadır. Kullanıcıların fotoğraflarını ve anılarını düzenlemelerine, paylaşmalarına ve hatırlamalarına yardımcı olur. AI teknolojisi sayesinde, kullanıcıların anılarını daha anlamlı hale getirir."
+              ghLink="https://github.com/VastSea0/notia"
+              demoLink="https://web-notia.netlify.app/"
+            />
+          </Col>
 
         </Row>
       </Container>
